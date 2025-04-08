@@ -1,3 +1,3 @@
 # Command for run
 
-dart run build_runner --delete-conflicting-outputs# lab_8
+dart run build_runner build --delete-conflicting-outputs
